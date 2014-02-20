@@ -1,0 +1,5 @@
+* Design docs
+** TODO Draw/design circuits on paper
+** TODO Compile design doc in LaTeX
+
+* Circuitry
